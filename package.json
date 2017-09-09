@@ -1,0 +1,12 @@
+{
+  "name": "DutyToGod",
+  "version": "0.0.1",
+  "description": "A Progressive Web App for tracking LDS Duty To God",
+  "main": "index.js",
+  "repository": "git@github.com:thuey/DutyToGod.git",
+  "author": "thuey <thuey100@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-tools": "^3.10.1"
+  }
+}
